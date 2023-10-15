@@ -537,7 +537,15 @@ anim .main .main-cent .line .load.active {
     .main-wrap .content {
         width: 90%
     }
-
+    .juggad {
+        right: 10px;
+        width: 100%;
+        display: none
+    }
+    .collab {
+        right: 20px;
+        display: none
+    }
     .main-wrap h1 {
         font-size: 70px
     }
